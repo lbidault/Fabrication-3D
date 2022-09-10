@@ -2,6 +2,8 @@
 
 Présentation des étapes de développement d'images en 3D, ce site retrace chronologiquement le processus par l'intermédiaire d'éléments interactifs et ludiques.
 
+Lien du site: https://rendu-3d.netlify.app
+
 Contenu du projet:
 
 - Une page présentant les différentes étapes illustrée par la formation progressive d'un diamant éclairé
