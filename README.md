@@ -2,7 +2,7 @@
 
 Présentation des étapes de développement d'images en 3D, ce site retrace chronologiquement le processus par l'intermédiaire d'éléments interactifs et ludiques.
 
-Lien du site: https://rendu-3d.netlify.app
+Lien du site: [https://lbidault-3d.netlify.app](https://lbidault-3d.netlify.app/)
 
 Contenu du projet:
 
